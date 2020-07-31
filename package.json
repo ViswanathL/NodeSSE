@@ -1,0 +1,23 @@
+{
+  "name": "sse",
+  "version": "0.0.1",
+  "description": "A SSE implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SSE",
+    "Server",
+    "Sent",
+    "Events",
+    "NodeJS",
+    "Javascript",
+    "Events"
+  ],
+  "author": "Viswanath Lekshmanan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
